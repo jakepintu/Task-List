@@ -15,7 +15,7 @@ Task List is a basic app create with Meterialize. In this app, you can add tasks
 
 ## Preview
 
-[![Task List Preview])](https://jakepintu.github.io/Task-List/)
+[![Task List Preview](https://raw.githubusercontent.com/jakepintu/Task-List/master/Task-List.png)](https://jakepintu.github.io/Task-List/)
 
 **[View Live Preview](https://jakepintu.github.io/Task-List/)**
 
