@@ -1,0 +1,31 @@
+{
+  "name": "task-list",
+  "version": "1.0.0",
+  "description": "Task List",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp live"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://jakepintu.github.io/Task-List/"
+  },
+  "keywords": [
+    "Html",
+    "Css",
+    "Responsive",
+    "CSS",
+    "Task List",
+    "DOM"
+  ],
+  "author": "Mahendra Choudhary",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "materialize-css": "^1.0.0-beta"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1"
+  }
+}
